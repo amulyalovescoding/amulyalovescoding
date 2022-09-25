@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amulyalovescoding #codingismylife
 - 👀 I’m interested in freelance frontend projects.
-- 🌱 I’m lost my previous GitHub account with my laptop. Creating new one ...
+- 🌱 I’ve lost my previous GitHub account with my laptop. Creating new one ...
 - 💞️ I’m looking to collaborate on projects .
 - 📫 Reach me at amulyasince1991@gmail.com
 
@@ -12,7 +12,9 @@ have_a_great_day ( your_life )
 while (memory<=2021)
 {
 if (memory == (sorrow || pain || angry || hate || envy))
+
 free (memory);
+
 }
 
 for ( i = 2022 ; 1 ; i++)
