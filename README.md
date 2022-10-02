@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @amulyalovescoding #codingismylife
-- 👀 I’m interested in freelance frontend projects.
-- 🌱 I’ve lost my previous GitHub account with my laptop. Creating new one ...
-- 💞️ I’m looking to collaborate on projects .
-- 📫 Reach me at amulyasince1991@gmail.com
+👩🏻‍💻 Hi, I’m Amulya
+Frontend JavaScript Web Developer
+
+ 
+➢ 
+➢ 
+👋 #codingismylife
+👀 I love creating new things
+🌱 I’ve lost my previous GitHub account with my laptop. Creating new one ...
+➢ I’m currently mastering JavaScript/React
+➢ I enjoy some CSS and HTML as well!
+
+➢ 💞️ Open to work
+➢ 📫 Reach me at amulyasince1991@gmail.com
 
 Thanks for Visiting...
 
